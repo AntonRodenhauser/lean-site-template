@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homepages on EA Berlin</title>
+    <link>https://www.ea-berlin.org/homepage/</link>
+    <description>Recent content in Homepages on EA Berlin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="https://www.ea-berlin.org/homepage/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://www.ea-berlin.org/homepage/_first_section_text/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.ea-berlin.org/homepage/_first_section_text/</guid>
+      <description>Wir verwenden wissenschaftliche Methodik und Verstand, um die Welt zu einen besseren Ort zu machen.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.ea-berlin.org/homepage/_second_section_text/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.ea-berlin.org/homepage/_second_section_text/</guid>
+      <description>Wir sind eine unterstützende Gemeinschaft, die dir helfen will, deine altruistischen Ziele zu erreichen.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.ea-berlin.org/homepage/_third_section_text/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.ea-berlin.org/homepage/_third_section_text/</guid>
+      <description>Manche Projekte sind bis zu tausendfach effektiver als andere. Wir verwenden Logik und wissenschaftliches Vorgehen, um unsere Wirkung zu maximieren.</description>
+    </item>
+    
+  </channel>
+</rss>
